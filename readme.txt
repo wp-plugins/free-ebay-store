@@ -10,7 +10,7 @@ Display an eBay store on your website, and sell products with your own campaign 
 
 == Description ==
 
-Display an eBay store on your website, and sell products with your own campaign ID. Display them within posts, or as a widget.
+The Free eBay Store plugin allows you to automatically display eBay listings on your blog. You just add a simple tag to a post or page, along with your eBay Campaign ID, and the relevant keywords for the products to be displayed. You can also optionally specify the number of rows and columns to specify the layout of your eBay store. Why pay to build an eBay store when you can build one for free?
 
 == Installation ==
 
