@@ -4,7 +4,7 @@ Donate link: http://geeklad.com
 Tags: ebay, store, earn, money
 Requires at least: 2.0
 Tested up to: 2.7.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 Display an eBay store on your website, and sell products with your own campaign ID. Display them within posts, or as a widget.
 
