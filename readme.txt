@@ -22,7 +22,7 @@ The Free eBay Store plugin allows you to automatically display eBay listings on 
 
 If you want to display the store on a page or post, use the following [shortcode](http://faq.wordpress.com/2008/06/18/what-are-the-wordpress-shortcodes/):
 
-	[ebay campaignid="_YourCampaignID_" keywords="_Product Keywords_" rows="_RowCount_" columns="_ColumnCount_" pagination="_yes_" vertical="_yes_"]
+	[ebay campaignid="YourCampaignID" keywords="Product Keywords" rows="RowCount" columns="ColumnCount" pagination="yes" vertical="yes"]
 
 Required Parameters:
 
