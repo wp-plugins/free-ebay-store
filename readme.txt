@@ -19,6 +19,7 @@ The Free eBay Store plugin allows you to automatically display eBay listings on 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 = Displaying a Store in Pages or Posts =
+
 If you want to display the store on a page or post, use the following [shortcode](http://faq.wordpress.com/2008/06/18/what-are-the-wordpress-shortcodes/):
 
 	[ebay campaignid="_YourCampaignID_" keywords="_Product Keywords_" rows="_RowCount_" columns="_ColumnCount_" pagination="_yes_" vertical="_yes_"]
@@ -44,6 +45,7 @@ If you specify the _pagination="yes"_ parameter, it will enable pagination of th
 If you specify the _vertical="yes"_, it will place the item info below the image rather than to the right of it.
 
 = Displaying a Store as a Widget =
+
 1. Go to *Appearance* > *Widgets* in WordPress.
 2. Select the section where you want the widget to appear and click *Show*.
 3. Click the *Add* button next to the *Free eBay Store* widget.
