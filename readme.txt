@@ -79,11 +79,7 @@ I got anxious to release the plugin to the public and got lazy toward the end.  
 = What's the catch? There are a lot of eBay stores out there that cost money.  Why is yours free? =
 
 * I shamelessly place a link back to the plugin homepage to promote my plugin.
-* 40% of the time, your campaign ID is displayed.  The other 60% of the time, my campaign ID is displayed.
-
-= You only display my campaign ID 40% of the time? What's up with that?  Why won't you display my campaign ID more often? =
-
-As usage of the plugin increases, I will likely increase the display of user campaign IDs.
+* 90% of the time, your campaign ID is displayed.  The other 10% of the time, my campaign ID is displayed.
 
 == Screenshots ==
 
